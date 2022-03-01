@@ -13,7 +13,7 @@ Programaremos um pequeno jogo de Pedra, Papel ou Tesoura. Neste jogo o usuário 
 
 Após termos as regras e o sistema com uma partida do jogo, ficará ao encargo das mesas de trabalho:
 
-- Refatorar o código, utilizando funções e a estrutura de decisão switch;
+- Refatorar o código, a estrutura de decisão switch;
 - Implementar uma regra de que só é declarado como ganhador, quem ganhou 2 rodadas, para auxiliar use uma variável para armazenar o vencedor de cada rodada;
 - Empate no jogo, não dá pontuação para nenhum dos jogadores.
 - Comentar o código e utilizar de qualquer outro recurso para deixá-lo melhor formatado.
